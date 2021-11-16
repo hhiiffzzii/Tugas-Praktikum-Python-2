@@ -1,41 +1,41 @@
 # Tugas-Praktikum-Python-2
 
-- ## PROGRAM MENAMPILKAN OUTPUT
+- ## PROGRAM MENCARI BILANGAN TERBESAR DARI DUA BILANGAN
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ## PROGRAM DATA KECEPATAN MOBIL
+- ## PROGRAM MENCARI BILANGAN TERBESAR DARI TIGA BILANGAN
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ## PROGRAM MENGHITUNG PEMBELIAN
+- ## PROGRAM MENCARI BILANGAN YANG SAMA
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ## PROGRAM PENJUALAN BUKU
+- ## PROGRAM MENGHITUNG BERAT BADAN IDEAL SESEORANG
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ## PROGRAM MENGHITUNG TAGIHAN TELEPON
+- ## PROGRAM MENGHITUNG NILAI AKHIR
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-- ## PROGRAM GAJI PEGAWAI
+- ## PROGRAM MENGHITUNG GAJI KARYAWAN
 
 > ### Source Code<br>
 <br>
